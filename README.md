@@ -9,10 +9,9 @@ Interested in machine learning and quantitative methods — building things at t
 ---
 
 **A few things I've built:**
-- 🧠 Regime-conditioned trading strategy using KANs + HMM — walk-forward backtested, no data leakage ([repo](https://github.com/AlexRadovich/KAN_regimes))
-- 🔤 22M-parameter transformer trained from scratch on math/ML literature — custom tokenizer, no HuggingFace
-- 🌐 [PicGate](https://picgate.vercel.app) — live production web app, built end-to-end
-- 📅 [Colgate Event Calendar](https://github.com/Matt-Liu0/colgate-event-calendar) — full-stack campus platform, 5-person Agile team
+- Regime-conditioned trading strategy using KANs + HMM ([repo](https://github.com/AlexRadovich/KAN_regimes))
+- [PicGate](https://picgate.vercel.app) — live production web app for Colgate's photography club, built end-to-end
+- [Colgate Event Calendar](https://github.com/Matt-Liu0/colgate-event-calendar) — full-stack campus platform, 5-person Agile team
 
 **Stack:** Python · PyTorch · scikit-learn · NumPy · Next.js · PostgreSQL
 
